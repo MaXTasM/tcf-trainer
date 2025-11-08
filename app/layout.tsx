@@ -26,16 +26,16 @@ export default function RootLayout({
             </span>
             <div className="flex gap-4 text-sm text-slate-700">
               <Link href="/" className="hover:text-blue-600">
-                Main
+                mock exams
               </Link>
               <Link href="/learn" className="hover:text-blue-600">
-                Practice
+                questions
               </Link>
               <Link href="/mock" className="hover:text-blue-600">
-                Mocks
+                learning
               </Link>
               <Link href="/profile" className="hover:text-blue-600">
-                Profile
+                sign in
               </Link>
             </div>
           </nav>
