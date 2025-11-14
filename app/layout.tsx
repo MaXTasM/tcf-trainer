@@ -28,10 +28,10 @@ export default function RootLayout({
               <Link href="/" className="hover:text-blue-600">
                 mock exams
               </Link>
-              <Link href="/learn" className="hover:text-blue-600">
+              <Link href="/questions" className="hover:text-blue-600">
                 questions
               </Link>
-              <Link href="/mock" className="hover:text-blue-600">
+              <Link href="/learning" className="hover:text-blue-600">
                 learning
               </Link>
               <Link href="/profile" className="hover:text-blue-600">
